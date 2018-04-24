@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "28950465292",
+    "firebase_url": "https://trucktrking.firebaseio.com",
+    "project_id": "trucktrking",
+    "storage_bucket": "trucktrking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28950465292:android:8c14f64d15cf3ad4",
+        "android_client_info": {
+          "package_name": "com.rishabhbatta.locationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28950465292-08d9nabrcojgm83sihnmh06enhm2635u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishabhbatta.locationdemo",
+            "certificate_hash": "8bdef452c686b6a61809b864268f75bb4a2e764d"
+          }
+        },
+        {
+          "client_id": "28950465292-a4ud89v49sn2g1n9jjh3fdhu5lh1p09d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOrcHkXhtzQXJ0PZMQDci8qt4cwoVRSkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28950465292-a4ud89v49sn2g1n9jjh3fdhu5lh1p09d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
